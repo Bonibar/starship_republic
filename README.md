@@ -1,2 +1,2 @@
-# starship_republic
+# Starship Republic
 An Unity3D space game
